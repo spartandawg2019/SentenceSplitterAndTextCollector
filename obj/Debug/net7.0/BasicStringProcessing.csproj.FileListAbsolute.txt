@@ -1,0 +1,15 @@
+/Users/tomk/Projects/BasicStringProcessing/bin/Debug/net7.0/BasicStringProcessing
+/Users/tomk/Projects/BasicStringProcessing/bin/Debug/net7.0/BasicStringProcessing.deps.json
+/Users/tomk/Projects/BasicStringProcessing/bin/Debug/net7.0/BasicStringProcessing.runtimeconfig.json
+/Users/tomk/Projects/BasicStringProcessing/bin/Debug/net7.0/BasicStringProcessing.dll
+/Users/tomk/Projects/BasicStringProcessing/bin/Debug/net7.0/BasicStringProcessing.pdb
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.csproj.AssemblyReference.cache
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.AssemblyInfoInputs.cache
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.AssemblyInfo.cs
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.dll
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/refint/BasicStringProcessing.dll
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.pdb
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/BasicStringProcessing.genruntimeconfig.cache
+/Users/tomk/Projects/BasicStringProcessing/obj/Debug/net7.0/ref/BasicStringProcessing.dll
